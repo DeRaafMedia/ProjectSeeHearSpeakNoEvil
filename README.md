@@ -7,6 +7,6 @@ Since I upgraded to Yosemite a lot of old Processing sketches broke, rather than
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectSeeHearSpeakNoEvil/blob/master/bin/data/SeeHearSpeakNoEvil.png)
 
-This project takes a live videofeed (this was writen with a built-in Apple FaceTime HD camera as source). Recongnizes the face(s) in it, and asigns a 'seeNoEvil', 'HearNoEvil' or 'SpeakNoEvil' mask to a face it finds. The mask is persistent to a face until the face disappears. The masks are assigned semi random.
+This project takes a live videofeed (this was writen with a built-in Apple FaceTime HD camera as source). Recongnizes the face(s) in it, and asigns a 'seeNoEvil', 'hearNoEvil' or 'speakNoEvil' mask to a face it finds. The mask is persistent to a face until the face disappears. The masks are assigned semi random.
 
 This project needed to be written specifically as a 32 bit app (so no universal binaries as of yet!).
